@@ -1,0 +1,7 @@
+C:\Users\egyed\source\repos\stadionapp\stadionapp\bin\Debug\stadionapp.exe.config
+C:\Users\egyed\source\repos\stadionapp\stadionapp\bin\Debug\stadionapp.exe
+C:\Users\egyed\source\repos\stadionapp\stadionapp\bin\Debug\stadionapp.pdb
+C:\Users\egyed\source\repos\stadionapp\stadionapp\obj\Debug\stadionapp.csproj.AssemblyReference.cache
+C:\Users\egyed\source\repos\stadionapp\stadionapp\obj\Debug\stadionapp.csproj.CoreCompileInputs.cache
+C:\Users\egyed\source\repos\stadionapp\stadionapp\obj\Debug\stadionapp.exe
+C:\Users\egyed\source\repos\stadionapp\stadionapp\obj\Debug\stadionapp.pdb

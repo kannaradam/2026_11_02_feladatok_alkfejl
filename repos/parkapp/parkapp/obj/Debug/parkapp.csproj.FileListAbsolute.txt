@@ -1,0 +1,7 @@
+C:\Users\egyed\source\repos\parkapp\parkapp\bin\Debug\parkapp.exe.config
+C:\Users\egyed\source\repos\parkapp\parkapp\bin\Debug\parkapp.exe
+C:\Users\egyed\source\repos\parkapp\parkapp\bin\Debug\parkapp.pdb
+C:\Users\egyed\source\repos\parkapp\parkapp\obj\Debug\parkapp.csproj.AssemblyReference.cache
+C:\Users\egyed\source\repos\parkapp\parkapp\obj\Debug\parkapp.csproj.CoreCompileInputs.cache
+C:\Users\egyed\source\repos\parkapp\parkapp\obj\Debug\parkapp.exe
+C:\Users\egyed\source\repos\parkapp\parkapp\obj\Debug\parkapp.pdb

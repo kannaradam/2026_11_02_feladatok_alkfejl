@@ -1,0 +1,7 @@
+C:\Users\egyed\source\repos\szallodaapp\szallodaapp\bin\Debug\szallodaapp.exe.config
+C:\Users\egyed\source\repos\szallodaapp\szallodaapp\bin\Debug\szallodaapp.exe
+C:\Users\egyed\source\repos\szallodaapp\szallodaapp\bin\Debug\szallodaapp.pdb
+C:\Users\egyed\source\repos\szallodaapp\szallodaapp\obj\Debug\szallodaapp.csproj.AssemblyReference.cache
+C:\Users\egyed\source\repos\szallodaapp\szallodaapp\obj\Debug\szallodaapp.csproj.CoreCompileInputs.cache
+C:\Users\egyed\source\repos\szallodaapp\szallodaapp\obj\Debug\szallodaapp.exe
+C:\Users\egyed\source\repos\szallodaapp\szallodaapp\obj\Debug\szallodaapp.pdb

@@ -1,0 +1,7 @@
+C:\Users\egyed\source\repos\muzeumapp\muzeumapp\bin\Debug\muzeumapp.exe.config
+C:\Users\egyed\source\repos\muzeumapp\muzeumapp\bin\Debug\muzeumapp.exe
+C:\Users\egyed\source\repos\muzeumapp\muzeumapp\bin\Debug\muzeumapp.pdb
+C:\Users\egyed\source\repos\muzeumapp\muzeumapp\obj\Debug\muzeumapp.csproj.AssemblyReference.cache
+C:\Users\egyed\source\repos\muzeumapp\muzeumapp\obj\Debug\muzeumapp.csproj.CoreCompileInputs.cache
+C:\Users\egyed\source\repos\muzeumapp\muzeumapp\obj\Debug\muzeumapp.exe
+C:\Users\egyed\source\repos\muzeumapp\muzeumapp\obj\Debug\muzeumapp.pdb

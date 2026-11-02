@@ -1,0 +1,7 @@
+C:\Users\egyed\source\repos\konyvapp\konyvapp\bin\Debug\konyvapp.exe.config
+C:\Users\egyed\source\repos\konyvapp\konyvapp\bin\Debug\konyvapp.exe
+C:\Users\egyed\source\repos\konyvapp\konyvapp\bin\Debug\konyvapp.pdb
+C:\Users\egyed\source\repos\konyvapp\konyvapp\obj\Debug\konyvapp.csproj.AssemblyReference.cache
+C:\Users\egyed\source\repos\konyvapp\konyvapp\obj\Debug\konyvapp.csproj.CoreCompileInputs.cache
+C:\Users\egyed\source\repos\konyvapp\konyvapp\obj\Debug\konyvapp.exe
+C:\Users\egyed\source\repos\konyvapp\konyvapp\obj\Debug\konyvapp.pdb
